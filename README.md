@@ -2,7 +2,7 @@
 
 - 👽🇨🇳&nbsp; 正努力学习前端中
 - 💻 &nbsp; Working at
-- 📖&nbsp; TypeScript learning
+- 📖&nbsp; TypeScript learning [TypeScript](https://ts.xcatliu.com/)
 
 ## ⌨️ &nbsp;
 
