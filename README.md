@@ -1,8 +1,8 @@
 ## 🦸‍♂️&nbsp;关于我 
 
-- 👽🇨🇳&nbsp; 正努力学习前端中
+- 👽🇨🇳&nbsp; 最近在学习[TypeScript](https://ts.xcatliu.com/)[Vite](https://vitejs.dev/guide/why.html)
 - 💻 &nbsp; Working at
-- 📖&nbsp; [TypeScript](https://ts.xcatliu.com/) learning
+- 📖&nbsp; 
 
 ## ⌨️ &nbsp;
 
