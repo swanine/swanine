@@ -1,6 +1,6 @@
-## 🦸‍♂️&nbsp;关于我 
+## Hi there 👋
 
-- 👽&nbsp;
+- 👽&nbsp;My name is Swanine
 - 💻&nbsp;Working at
 - 📖&nbsp;最近在学习[TypeScript](https://ts.xcatliu.com/)&emsp;[Vite](https://vitejs.dev/guide/why.html)
 
