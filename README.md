@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 👽&nbsp;My name is Swanine
+- 👽&nbsp;I'm swanine(Yan Hong how)
 - 💻&nbsp;Working at
-- 📖&nbsp;最近在学习[TypeScript](https://ts.xcatliu.com/)&emsp;[Vite](https://vitejs.dev/guide/why.html)
+- 📖&nbsp;[TypeScript](https://ts.xcatliu.com/)&emsp;[Vite](https://vitejs.dev/guide/why.html)
 
 ## ⌨️ &nbsp;
 
