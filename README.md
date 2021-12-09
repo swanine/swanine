@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 👽 I'm swanine (Yan Honghow)
+- 👽 I'm swanine (yán hóng hào)
 - 🏙 居住城市：合肥
 - 👔 主要角色：开发者 / 前端工程师 / 插画师
 - 💻 常用工具：VSCode, iTerm, Fgima, Procreate
