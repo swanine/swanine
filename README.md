@@ -8,14 +8,16 @@
 - 📖 最近在学：颜色理论、Rust
 - 📫 联系方式：[swanine.github.io](https://swanine.github.io/)
 -----
+
+<div>
 <a href="https://github.com/swanine">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swanine&layout=compact&theme=radical&bg_color=30,ff758c,e4efe9&text_color=ffffff&title_color=29323c" align="right" width="45%"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=swanine&show_icons=true&theme=radical&hide=issues"/>
 </a>
 
 <a href="https://github.com/swanine">
-  <img src="https://github-readme-stats.vercel.app/api?username=swanine&show_icons=true&theme=radical&hide=issues" width="48%"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swanine&layout=compact&theme=radical&bg_color=30,ff758c,e4efe9&text_color=ffffff&title_color=29323c"/>
 </a>
-
+</div>
 
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
