@@ -9,7 +9,7 @@
 
 <div>
 <a href="https://github.com/swanine">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=swanine&show_icons=true&theme=radical&hide=issues"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=swanine&show_icons=true&theme=radical"/>
 </a>
 
 <a href="https://github.com/swanine">
