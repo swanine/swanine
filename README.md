@@ -17,8 +17,14 @@
 </a>
 </div>
 
-![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
-![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![swift](https://img.shields.io/badge/-swift-333333?style=flat&logo=swift)
+![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
+
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma)
