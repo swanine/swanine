@@ -1,8 +1,19 @@
-## Hi there 👋
-
-
-- 👽 I'm swanine
------
+<h2>Hi there, I'm <a href="https://swanine.xyz/">Swanine</a> 👋</h2>
+<p>I am currently a web front-end developer, as well as a fan of board painting</p>
+<p>
+  <a href="https://swanine.xyz">
+    <img src="https://img.shields.io/badge/-swanine.xyz-4E69C8?style=flat-square&logo=Firefox"/>
+  </a>
+ 
+  <a href="https://twitter.com/swanine3">
+    <img src="https://img.shields.io/badge/-@swanine3-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/>
+  </a>
+  
+  <a href="https://twitter.com/swanine3">
+    <img src="https://img.shields.io/badge/-swanine-07c160?style=flat-square&logo=wechat&logoColor=white"/>
+  </a>
+</p>
+<p>🌠 Hoping to create something that can be remembered by others ☄️</p>
 
 <div>
 <a href="https://github.com/swanine">
@@ -14,14 +25,3 @@
 </a>
 </div>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
-![swift](https://img.shields.io/badge/-swift-333333?style=flat&logo=swift)
-![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
-
-![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma)
