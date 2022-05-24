@@ -1,10 +1,7 @@
 ## Hi there 👋
 
 
-- 👽 I'm swanine (yán hóng hào)
-- 🏙 居住城市：合肥
-- 👔 主要角色：开发者 / 前端攻城狮
-- 📖 最近在学：颜色理论、Rust
+- 👽 I'm swanine
 -----
 
 <div>
