@@ -15,6 +15,19 @@
 </p>
 <p>🌠 Hoping to create something that can be remembered by others ☄️</p>
 
+<h2>🚀 Some Tools I Use</h2>
+<p align="left">
+  <code><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="25"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="25"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="25"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="25"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25"/></code>
+</p>
+
 <div>
 <a href="https://github.com/swanine">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=swanine&show_icons=true&theme=radical"/>
