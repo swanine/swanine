@@ -6,7 +6,11 @@
   </a>
  
   <a href="https://twitter.com/swanine3">
-    <img src="https://img.shields.io/badge/-@swanine3-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-@swanine-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/>
+  </a>
+  
+  <a href="https://codepen.io/swanine">
+    <img src="https://img.shields.io/badge/-@swanine-1E1F26?style=flat-square&logo=codepen&logoColor=white"/>
   </a>
   
   <a href="https://twitter.com/swanine3">
