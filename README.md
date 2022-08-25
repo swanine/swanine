@@ -1,9 +1,6 @@
 <h2>Hi there, I'm <a href="https://swanine.xyz/">Swanine</a> 👋</h2>
 <p>I am currently a web front-end developer, as well as a fan of board painting</p>
 <p>
-  <a href="https://swanine.xyz">
-    <img src="https://img.shields.io/badge/-swanine.xyz-4E69C8?style=flat-square&logo=Firefox"/>
-  </a>
  
   <a href="https://twitter.com/swanine3">
     <img src="https://img.shields.io/badge/-@swanine-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/>
