@@ -1,4 +1,4 @@
-<h2>Hi there, I'm <a href="#"Swanine</a> 👋</h2>
+<h2>Hi there, I'm <a href="#">Swanine</a> 👋</h2>
 <p>I am currently a web front-end developer, as well as a fan of board painting</p>
 <p>
  
