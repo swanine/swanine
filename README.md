@@ -3,7 +3,7 @@
 <p>
  
   <a href="https://twitter.com/swanine3">
-    <img src="https://img.shields.io/badge/-@swanine-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-@swanine-000000?style=flat-square&logo=x&logoColor=white"/>
   </a>
   
   <a href="https://codepen.io/swanine">
