@@ -1,13 +1,13 @@
-<h2>Hi there, I'm <a href="#">Swanine</a> 👋</h2>
+<h2>Hi there, I'm <a href="#">Ryan Yan</a> 👋</h2>
 <p>I am currently a web front-end developer, as well as a fan of board painting</p>
 <p>
  
   <a href="https://twitter.com/swanine3">
-    <img src="https://img.shields.io/badge/-@swanine-000000?style=flat-square&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-@Ryan Yan-000000?style=flat-square&logo=x&logoColor=white"/>
   </a>
   
   <a href="https://codepen.io/swanine">
-    <img src="https://img.shields.io/badge/-@swanine-1E1F26?style=flat-square&logo=codepen&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-@Ryan Yan-1E1F26?style=flat-square&logo=codepen&logoColor=white"/>
   </a>
   
   <a href="https://twitter.com/swanine3">
