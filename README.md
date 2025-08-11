@@ -1,17 +1,13 @@
-<h2>Hi there, I'm <a href="#">Ryan Yan</a> 👋</h2>
+<h2>Hi there, I'm <a href="#">Ethan Yan</a> 👋</h2>
 <p>I am currently a web front-end developer, as well as a fan of board painting</p>
 <p>
  
   <a href="https://twitter.com/swanine3">
-    <img src="https://img.shields.io/badge/-@Ryan Yan-000000?style=flat-square&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-@ethany.eth-000000?style=flat-square&logo=x&logoColor=white"/>
   </a>
   
   <a href="https://codepen.io/swanine">
-    <img src="https://img.shields.io/badge/-@Ryan Yan-1E1F26?style=flat-square&logo=codepen&logoColor=white"/>
-  </a>
-  
-  <a href="https://twitter.com/swanine3">
-    <img src="https://img.shields.io/badge/-swanine-07c160?style=flat-square&logo=wechat&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-@Ethan Yan-1E1F26?style=flat-square&logo=codepen&logoColor=white"/>
   </a>
 </p>
 <p>🌠 Hoping to create something that can be remembered by others ☄️</p>
