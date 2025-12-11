@@ -21,10 +21,10 @@
 
 <div>
 <a href="https://github.com/swanine">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=swanine&show_icons=true&theme=radical"/>
+  <img height="160" src="https://github-readme-stats-one-bice.vercel.app/api?username=swanine&show_icons=true&theme=radical"/>
 </a>
 
 <a href="https://github.com/swanine">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swanine&layout=compact&theme=radical&bg_color=30,ff758c,e4efe9&text_color=ffffff&title_color=29323c"/>
+  <img height="160" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=swanine&layout=compact&theme=radical&bg_color=30,ff758c,e4efe9&text_color=ffffff&title_color=29323c"/>
 </a>
 </div>
